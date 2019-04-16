@@ -1,0 +1,7 @@
+
+
+
+export const SET_SEARCH_DATA = `SET_SEARCH_DATA`
+
+
+export const GET_SEARCH_DATA = `GET_SEARCH_DATA`
